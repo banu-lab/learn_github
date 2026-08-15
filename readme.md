@@ -1,1 +1,1 @@
-halo ini adalah repo belajar github
+buat belajar git hub :u
